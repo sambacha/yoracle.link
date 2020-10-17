@@ -1,0 +1,28 @@
+{
+  "name": "yoracle.link",
+  "version": "1.0.0",
+  "description": "UniswapOracleFactory 0x0b5A6b318c39b60e7D8462F888e7fbA89f75D02F",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/yoracle.link.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambacha/yoracle.link/issues"
+  },
+  "homepage": "https://github.com/sambacha/yoracle.link#readme",
+  "devDependencies": {
+    "@codechecks/build-size-watcher": "^0.1.0",
+    "@codechecks/client": "^0.1.10",
+    "eth-gas-reporter": "^0.2.18"
+  }
+}
