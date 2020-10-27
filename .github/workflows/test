@@ -1,0 +1,4 @@
+#!/bin/sh
+chmod +x test.bash
+./test.bash
+exit 0
